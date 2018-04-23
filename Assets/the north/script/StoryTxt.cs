@@ -11,8 +11,8 @@ public class StoryTxt
     public const string C1S1P2 ="\"前两天帝都的墓园出现许多狼人.\"";
     public const string C1S1P3 ="\"我的天那些骨头可不是给它们用来吃的.\"";
     public const string C1S1P4 ="\"希望您能前往消灭它们.\"";
-    public const string C1S1P5 = "\"我是住在附近的商贩.\"";
-    public const string C1S1P6 = "\"有什么需要可以找我,那么拜托了.\"";
+    public const string C1S1P5 = "\"附近有一些商贩.\"";
+    public const string C1S1P6 = "\"有什么需要可以找他们,那么拜托了.\"";
 
 
     public const string C1S1P7 = "";

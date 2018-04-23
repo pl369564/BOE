@@ -14,6 +14,7 @@ public class Bar_Npc : Npc {
                 case NPCType.Normal:
                     LabelControl.Instance.Talk(QuestTxt.BarNpcWords);
                     LabelControl.Instance.Hide ();
+                    QuestUI.Instance.ShowQuestUI(1);
                     break;
                 case NPCType.WeaponShoper:
                     LabelControl.Instance.Talk(QuestTxt.WeaponNpcWords);
@@ -26,7 +27,6 @@ public class Bar_Npc : Npc {
                 case NPCType.Talker:
                     break;
                 default:
-                    QuestUI.Instance.ShowQuestUI();
                     break;
             }
             

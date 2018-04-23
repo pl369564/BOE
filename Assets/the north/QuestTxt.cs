@@ -10,8 +10,12 @@ public class QuestTxt
     public const string WeaponNpcWords = "嘘!低头,别看我,有什么要的就说出来.";
 	public const string DragNpcWords="我是药店商人,有什么需要吗?";
 
+    public const string questword1 = "我可以给你一些经济上的援助";
+    public const string questword2 = "但是条件是要先帮我杀几只小狼";
 
-	public static string UpdateQuest(int id,int count){
+
+
+    public static string UpdateQuest(int id,int count){
 		switch (id) {
 		case 1:
 			if (count < 10) {

@@ -44,7 +44,7 @@ public class QuestUI : Singletem<QuestUI> {
 			HideQusetUI ();
 			isShow = false;
 		} else {
-			ShowQuestUI ();
+			ShowQuestUI (1);
 			isShow = true;
 		}
 	}
@@ -105,8 +105,11 @@ public class QuestUI : Singletem<QuestUI> {
 			break;
 		}
 	}
-	public void ShowQuestUI(){
+	public void ShowQuestUI(int questID){
 		tp.PlayForward ();
+        //
+        //
+        //
 	}
     public void ShowWeaponUI() {
         tp.PlayForward();
