@@ -286,3 +286,46 @@ __pycache__/
 *.btm.cs
 *.odx.cs
 *.xsd.cs
+/Library
+/UnityPackageManager
+/ProjectSettings
+/Assets/游戏大作业
+/Assets/新建文件夹
+/Assets/zz.unity
+/Assets/ZZ.prefab
+/Assets/ZZ.png
+/Assets/ZZ.mat
+/Assets/xx.unity
+/Assets/UI Atlas.prefab
+/Assets/UI Atlas.png
+/Assets/TudorPack/Images
+/Assets/Tree_Textures
+/Assets/Tree9
+/Assets/Tree.prefab
+/Assets/the north
+/Assets/Test.cs
+/Assets/Terrain.prefab
+/Assets/Standard Assets
+/Assets/SCENE zz
+/Assets/RPG
+/Assets/Palace.prefab
+/Assets/north.unity
+/Assets/North Atlas.prefab
+/Assets/North Atlas.png
+/Assets/North Atlas.mat
+/Assets/NGUI
+/Assets/New Terrain.asset
+/Assets/New Terrain 3.asset
+/Assets/L_FG_Assets_Pack1.0
+/Assets/Inventory
+/Assets/dazuoye
+/Assets/boss1.unity
+/Assets/BladeOfEmpire/Music
+/Assets/BladeOfEmpire/Model
+/Assets/BladeOfEmpire/Cleaver Warrior
+/Assets/BladeOfEmpire/Cache
+/Assets/BladeOfEmpire/Animator
+/Assets/BladeOfEmpire/Werewolf
+/Assets/BladeOfEmpire/The Work Buildings
+/Assets/BladeOfEmpire/pictrue
+/Assets/BladeOfEmpire/loot
